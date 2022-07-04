@@ -1,23 +1,35 @@
 [
    {
-      "Parametro":"Andalucía",
+      "Parametro":"ropero",
       "Valor":10
    },
    {
-      "Parametro":"Aragón",
+      "Parametro":"paju",
       "Valor":6
    },
    {
-      "Parametro":"Asturias",
+      "Parametro":"ifez",
       "Valor":7
    },
    {
 
-      "Parametro":"Canarias",
+      "Parametro":"marc",
       "Valor":8
    },
    {
-      "Parametro":"Cantabria",
-      "Valor":2
-   }
+      "Parametro":"zahir",
+      "Valor":5
+   },
+   {
+      "Parametro":"gekas",
+      "Valor":1
+   },
+   {
+      "Parametro":"maricon",
+      "Valor":8
+   },
+   {
+      "Parametro":"loki",
+      "Valor":10
+   } 
 ]
