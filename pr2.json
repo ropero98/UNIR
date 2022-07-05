@@ -1,35 +1,43 @@
 [
    {
       "Parametro":"ropero",
-      "Valor":10
+      "Valor":10,
+      "Notamedia":5
    },
    {
       "Parametro":"paju",
-      "Valor":6
+      "Valor":6,
+      "Notamedia":7
    },
    {
       "Parametro":"ifez",
-      "Valor":7
+      "Valor":7,
+      "Notamedia":9
    },
    {
 
       "Parametro":"marc",
-      "Valor":8
+      "Valor":8,
+      "Notamedia":6
    },
    {
       "Parametro":"zahir",
-      "Valor":5
+      "Valor":5,
+      "Notamedia":2
    },
    {
       "Parametro":"gekas",
-      "Valor":1
+      "Valor":1,
+      "Notamedia":3
    },
    {
       "Parametro":"maricon",
-      "Valor":8
+      "Valor":8,
+      "Notamedia":6
    },
    {
       "Parametro":"loki",
-      "Valor":10
+      "Valor":10,
+      "Notamedia":9
    } 
 ]
