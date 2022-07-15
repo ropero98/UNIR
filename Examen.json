@@ -1,0 +1,46 @@
+[{
+"cumpleaños:10,
+"alumno":"alberto",
+"nota": 10,
+"ranking":1
+}, {
+"cumpleaños:2,
+"alumno":"jesus",
+"nota": 9,
+"ranking":2
+}, {
+"cumpleaños:9,
+"alumno":"borja",
+"nota":1,
+"ranking":9
+}, {
+"cumpleaños:10,
+"alumno":"marta",
+"nota":8,
+"ranking":3
+}, {
+"cumpleaños:12,
+"alumno":"maria",
+"nota":2,
+"ranking":8
+}, {
+"cumpleaños:4,
+"alumno":"alicia",
+"nota":7,
+"ranking":4
+}, {
+"cumpleaños:6,
+"alumno":"alvaro",
+"nota":3,
+"ranking":7
+}, {
+"cumpleaños:8,
+"alumno":"jose",
+"nota":6,
+"ranking":5
+}, {
+"cumpleaños:11,
+"alumno":"fran",
+"nota":5,
+"ranking":6
+}]
