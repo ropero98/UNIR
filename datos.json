@@ -1,0 +1,22 @@
+[
+  { 
+    "x": 1000, 
+    "grupo": "aguilas" 
+  },
+  { 
+    "x": 1500, 
+	"grupo": "cuervos" 
+  },
+  { 
+    "x": 2000, 
+	"grupo": "palomas" 
+  },
+  { 
+    "x": 1800, 
+	"grupo": "grullas" 
+  },
+  { 
+    "x": 1200, 
+	"grupo": "gabilanes" 
+  }
+]
